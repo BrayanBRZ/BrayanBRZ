@@ -1,10 +1,5 @@
 # Welcome!
 
-<div style="display: inline_block">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanBRZ&langs_count=2&layout=compact&theme=dark&bg_color=07090d&border_color=11161f&title_color=ffffff&text_color=858585" height="140rem"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=BrayanBRZ&show_icons=true&bg_color=07090d&border_color=11161f&title_color=ffffff&text_color=858585&hide=prs,issues,contribs&count_private=true&card_width=1px" height="140rem"/>
-</div>
-
 ## Capabilities
 
 <div style="display: inline_block">
